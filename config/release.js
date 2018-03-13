@@ -9,8 +9,6 @@ module.exports = {
   // message: "Bumped version to %@",
   // manifest: [ 'package.json', 'bower.json', 'someconfig.json' ],
   publish: true,
-
-  
   // strategy: 'date',
   // format: 'YYYY-MM-DD',
   // timezone: 'America/Los_Angeles',
